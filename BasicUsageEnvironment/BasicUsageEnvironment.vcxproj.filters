@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\BasicHashTable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\BasicTaskScheduler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\BasicTaskScheduler0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\BasicUsageEnvironment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\BasicUsageEnvironment0.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\DelayQueue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\include\BasicHashTable.hh">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\include\BasicUsageEnvironment.hh">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\include\BasicUsageEnvironment_version.hh">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\include\BasicUsageEnvironment0.hh">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\include\DelayQueue.hh">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\live555\live555-latest\live\BasicUsageEnvironment\include\HandlerSet.hh">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{ade6268e-4c2a-42c5-8159-c1a4fec1b2bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{cfe6e9dd-a693-495d-afb1-07bf388fe24a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
